@@ -1,0 +1,31 @@
+{
+  "name": "Draw_In_MSPaint",
+  "description": "Draw Picture In MSPaint - Black and White",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.UIAutomation.Activities": "[18.3.6864.20582]",
+    "UiPath.System.Activities": "[18.3.6864.20561]",
+    "UiPath.Excel.Activities": "[2.4.6863.30657]",
+    "JSON": "[1.0.1]",
+    "UiPath.WebAPI.Activities": "[1.2.6863.33980]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.3.1.0",
+  "projectVersion": "1.0.6935.3898",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "arguments": {
+    "input": [],
+    "output": []
+  }
+}
